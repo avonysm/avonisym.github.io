@@ -12,11 +12,6 @@ googleAnalytics = "G-8KBRJ1X5KN"
 [imaging]
   anchor = 'Center'
 
-[sitemap]
-  filename = "sitemap.xml"
-  changefreq = "daily"
-  priority = 0.5
-
 [taxonomies]
   author = "authors"
   tag = "tags"
