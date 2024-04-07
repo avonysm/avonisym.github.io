@@ -1,3 +1,4 @@
+themes = "blowfish"
 baseURL = "https://avonysm.github.io/"
 defaultContentLanguage = "id"
 
