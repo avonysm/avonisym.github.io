@@ -30,9 +30,9 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true
 
 [footer]
-  showMenu = true
+  showMenu = false
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = false
 
@@ -106,9 +106,6 @@ smartTOCHideUnfocusedChildren = false
 
 [sitemap]
   excludedKinds = []
-
-[verification]
-  google = "XwiuNOh9ibj8Ho3y-od5o85IusGF7ZcxUZgnIyeJ9Ao"
 
 [firebase]
   apiKey = "AIzaSyC0rapWjt-t-HgOBJZyLBz0JkzbyDXIElI"
