@@ -8,8 +8,6 @@ authors:
     - fauziralpiandi
 ---
 
-{{< icon "stars" >}}
-
 {{< lead >}}
 **aku tahu persis bagaimana aku mengingatnya,**
 {{</ lead >}}
