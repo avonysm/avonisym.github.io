@@ -6,5 +6,5 @@ keywords: [ "fauzira", "alpiandi" ]
 ---
 
 {{< lead >}}
-Nycthopilenigma
+Nycthophilenigma
 {{</ lead >}}
