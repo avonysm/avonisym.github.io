@@ -6,5 +6,5 @@ keywords: [ "fauzira", "alpiandi" ]
 ---
 
 {{< lead >}}
-‏مِنَ الْعَائِدِيْن وَالْفَائِزِيْن
+Nycthopilenigma
 {{</ lead >}}
